@@ -14,14 +14,14 @@ engine/*
 /themes/Frontend/Responsive
 
 # User installed plugins
-/Plugins/Community/Backend/*
-/Plugins/Community/Core/*
-/Plugins/Community/Frontend/*
-/Plugins/Local/Backend/*
-/Plugins/Local/Core/*
-/Plugins/Local/Frontend/*
+/Plugins/Community/Backend/
+/Plugins/Community/Core/
+/Plugins/Community/Frontend/
+/Plugins/Local/Backend/
+/Plugins/Local/Core/
+/Plugins/Local/Frontend/
 
-/custom/plugins/*
+/custom/plugins/
 
 # Userconfigurations
 /config.php
